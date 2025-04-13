@@ -2,14 +2,18 @@
 
 AI Career Coach is an AI-powered web application designed to help individuals plan, grow, and succeed in their careers. From personalized career guidance to resume suggestions and smart career roadmaps — it's your virtual career companion built using modern web technologies.
 
+## 🔗 Live Demo
+
+👉 [Click here to explore the app](https://ai-carrer-coach1-r7p81g7ji-suyash04-24s-projects.vercel.app)
+
 ## 🚀 Features
 
-- ✅ AI-driven personalized career advice
-- 🧠 Smart resume suggestions and improvements
-- 🎯 Customized career roadmap planning
-- 🗣️ Real-time AI Q&A for career guidance
-- 📈 Progress tracking for continuous growth
-- 🌐 Fully responsive and user-friendly design
+- ✅ AI-driven personalized career advice  
+- 🧠 Smart resume suggestions and improvements  
+- 🎯 Customized career roadmap planning  
+- 🗣️ Real-time AI Q&A for career guidance  
+- 📈 Progress tracking for continuous growth  
+- 🌐 Fully responsive and user-friendly design  
 
 ## 🛠️ Built With
 
